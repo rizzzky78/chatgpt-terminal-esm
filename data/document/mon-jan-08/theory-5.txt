@@ -1,0 +1,16 @@
+Berikut adalah tahapan dalam melakukan penerapan Usability Testing:
+
+1. Identifikasi Tujuan: Tentukan tujuan yang ingin dicapai dengan melakukan Usability Testing. Apakah Anda ingin mengidentifikasi masalah pengguna, mengukur efektivitas antarmuka pengguna, atau mengevaluasi pengalaman pengguna secara keseluruhan.
+
+2. Identifikasi Pengguna: Identifikasi profil pengguna yang akan menjadi subjek dalam Usability Testing. Pastikan pengguna yang dipilih merepresentasikan target pasar atau audiens yang sesuai dengan produk atau layanan yang akan dievaluasi.
+
+3. Persiapkan Skenario Tes: Buat skenario tes yang mencakup tugas dan alur interaksi yang ingin Anda amati dalam Usability Testing. Dalam skenario, jelasakan tujuan dan arahan yang harus diikuti oleh pengguna.
+
+4. Rekam Data: Rekam data dan observasi selama proses Usability Testing. Catat interaksi pengguna, masalah yang dialami, feedback pengguna, dan metrik kinerja yang relevan.
+
+5. Analisis Data: Analisis data yang dikumpulkan selama sesi Usability Testing. Identifikasi masalah yang ditemukan, pola-pola yang muncul, dan rekomendasi perbaikan untuk meningkatkan pengalaman pengguna.
+
+6. Bangun Laporan: Buat laporan akhir yang berisi hasil Usability Testing. Sampaikan temuan, rekomendasi dan ringkasan keseluruhan kepada tim pengembang atau pihak terkait.
+
+Sumber:
+Nielsen, J. (1994). Usability engineering. Academic press.

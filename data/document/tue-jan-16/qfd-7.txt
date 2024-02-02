@@ -1,0 +1,21 @@
+Berikut adalah deskripsi detail dari setiap langkah dalam proses Analisis Quality Function Deployment (QFD) untuk menghubungkan kebutuhan pelanggan dengan fitur-fitur chatbot yang diusulkan:
+
+1. Mengidentifikasi konsumen: Langkah pertama dalam QFD adalah mengidentifikasi konsumen atau pelanggan yang akan menjadi fokus penelitian. Hal ini melibatkan pemahaman yang jelas tentang siapa target pengguna chatbot, termasuk karakteristik demografis, preferensi, dan kebutuhan mereka.
+
+2. Menentukan customer needs (whats): Setelah mengidentifikasi konsumen, langkah berikutnya adalah menentukan kebutuhan pelanggan atau "customer needs". Hal ini melibatkan pengumpulan data dari kuesioner atau metode penelitian lainnya untuk mengidentifikasi apa yang diinginkan atau dibutuhkan oleh pelanggan dari chatbot tersebut. Customer needs ini bersifat kualitatif dan dapat mencakup berbagai aspek seperti kemudahan penggunaan, responsif terhadap pertanyaan, dan kemampuan menerima dan memproses pesanan.
+
+3. Menentukan importance rating: Setelah customer needs berhasil ditentukan, langkah selanjutnya adalah menentukan tingkat kepentingan atau importance rating dari setiap kebutuhan pelanggan. Ini melibatkan penggunaan skala penilaian untuk menilai sejauh mana setiap kebutuhan pelanggan berdampak pada kepuasan pelanggan secara keseluruhan. Rating ini bersifat relatif dan harus didiskusikan dan disepakati dengan tim penelitian dan stakeholder Halal Mart.
+
+4. Menentukan technical requirements (hows): Setelah mengetahui kebutuhan pelanggan, langkah selanjutnya adalah menentukan technical requirements atau "hows". Hal ini melibatkan identifikasi fitur-fitur atau fungsi teknis dari chatbot yang diusulkan yang dapat memenuhi kebutuhan pelanggan. Misalnya, fitur-fitur seperti integrasi dengan sistem pencarian produk, kemampuan menampilkan informasi produk yang tepat, atau kemampuan berkomunikasi dalam bahasa yang dipilih pengguna.
+
+5. Menentukan relationship: Setelah mengidentifikasi technical requirements, langkah selanjutnya adalah menentukan hubungan antara kebutuhan pelanggan (customer needs) dan fitur-fitur chatbot (technical requirements). Ini melibatkan penilaian sejauh mana setiap technical requirement mempengaruhi atau dapat memenuhi setiap kebutuhan pelanggan. Hubungan ini sering diwakili dalam bentuk matriks atau diagram untuk memberikan gambaran visual.
+
+6. Membuat matriks korelasi: Setelah menentukan hubungan antara customer needs dan technical requirements, langkah selanjutnya adalah membuat matriks korelasi. Matriks ini menggambarkan tingkat hubungan antara setiap customer needs dan technical requirements dengan menggunakan simbol atau angka untuk menggambarkan tingkat kecocokan atau relevansi yang berkaitan.
+
+7. Menentukan bobot: Setelah matriks korelasi dibuat, langkah selanjutnya adalah menentukan bobot atau nilai penting bagi masing-masing technical requirements. Bobot ini mencerminkan seberapa penting setiap technical requirement dalam memenuhi kebutuhan pelanggan. Pembobotan ini dapat dilakukan melalui diskusi dan pemungutan suara bersama tim penelitian dan stakeholder Halal Mart.
+
+8. Membuat matriks penilaian: Setelah bobot ditentukan, langkah selanjutnya adalah membuat matriks penilaian. Matriks ini menggabungkan matriks korelasi dengan bobot untuk menghasilkan skor keseluruhan untuk setiap technical requirement. Skor keseluruhan ini mencerminkan sejauh mana masing-masing technical requirement dapat memenuhi kebutuhan pelanggan.
+
+9. Analisis hasil: Langkah terakhir dalam QFD adalah menganalisis hasil dari matriks penilaian. Hasil analisis ini mengungkapkan fitur-fitur chatbot mana yang dianggap paling penting dan berkualitas tinggi dalam memenuhi kebutuhan pelanggan. Hasil ini menjadi dasar untuk mengembangkan prioritas pengembangan chatbot dan mengarahkan upaya pengembangan selanjutnya.
+
+Dengan melakukan analisis Quality Function Deployment (QFD), tim penelitian dapat memahami kebutuhan pelanggan dengan lebih baik, memprioritaskan fitur-fitur chatbot dengan tepat, dan mengarahkan pengembangan chatbot secara efektif untuk memastikan bahwa chatbot dapat memberikan nilai dan kepuasan bagi pengguna.

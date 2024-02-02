@@ -1,0 +1,45 @@
+Dari dataset yang diberikan, terdapat beberapa informasi penting yang dapat digunakan sebagai dasar analisis dan rangkaian kerangka konseptual:
+
+1. Data kondisi global:
+   - Kondisi UMKM di Indonesia saat ini sedang dalam tren yang positif dengan kontribusi terhadap PDB Nasional sebesar 60,5%.
+   - UMKM menghadapi kendala dalam bertransformasi menggunakan teknologi digital, termasuk kesulitan akses permodalan, ketersediaan bahan baku, dan kesulitan mengadopsi teknologi digital.
+   - Tantangan yang dihadapi oleh UMKM di Indonesia meliputi terbatasnya akses pembiayaan, kesiapan digital, dan akses pemasaran.
+   - UMKM memiliki peran penting dalam perekonomian Indonesia dengan kemampuan menyerap tenaga kerja dan menghimpun investasi.
+
+2. Data pengetahuan umum:
+   - Body of Knowledge Industrial Engineering (BOK IE) adalah kumpulan pengetahuan yang diperlukan oleh seorang insinyur industri.
+   - BOK IE meliputi teknik dan metode analisis, perancangan sistem dan proses, manajemen dan rekayasa, elemen manusia dalam sistem, dan keterampilan komunikasi dan manajemen.
+   - Memadukan BOK dengan pengetahuan di luar BOK dapat memberikan manfaat dalam menghadapi perubahan kompleks dan perkembangan terkini di dunia industri.
+   - Metode Agile Scrum adalah kerangka kerja pengembangan perangkat lunak yang adaptif dan mengutamakan kolaborasi tim, adaptabilitas terhadap perubahan, dan pengembangan secara iteratif.
+   - Usability Testing dan Usability Analysis adalah metode untuk meningkatkan kegunaan produk atau sistem dengan menguji pengalaman pengguna dan menganalisis desain antarmuka pengguna.
+
+3. Tata cara penyusunan latar belakang penelitian:
+   - Latar belakang penelitian harus dimulai dengan pendahuluan dan konteks umum, diikuti dengan tinjauan literatur, identifikasi kekurangan penelitian sebelumnya, penjelasan metode penelitian, implikasi dan manfaat penelitian.
+   - Penjelasan mengenai objek atau tempat penelitian biasanya disampaikan dalam paragraf kedua atau ketiga.
+   - Rumusan masalah harus jelas dan spesifik, dan terkait dengan tujuan penelitian.
+   - Tujuan penelitian harus terperinci, spesifik, dan terukur, serta berkaitan erat dengan rumusan masalah.
+   - Manfaat penelitian harus jelas dan relevan dengan hasil penelitian, serta berkaitan dengan rumusan masalah dan tujuan penelitian.
+
+Berdasarkan dataset tersebut, kerangka konseptual yang dapat dibangun adalah sebagai berikut:
+
+1. Konteks UMKM di Indonesia:
+   - Analisis tren positif UMKM dan kontribusi mereka terhadap perekonomian Indonesia.
+   - Identifikasi permasalahan yang dihadapi oleh UMKM di era digital, termasuk keterbatasan akses permodalan, bahan baku, dan adopsi teknologi digital.
+   - Tinjauan terhadap masalah terkait terbatasnya akses pembiayaan, kesiapan digital, dan akses pemasaran yang dihadapi oleh UMKM di Indonesia.
+   - Analisis peran UMKM dalam perekonomian Indonesia sebagai sumber pertumbuhan ekonomi dan pencipta lapangan kerja.
+
+2. Penerapan ilmu pengetahuan dalam pengembangan industri:
+   - Penjelasan mengenai Body of Knowledge Industrial Engineering (BOK IE) dan komponen-komponen utamanya.
+   - Keuntungan dan pentingnya memadukan pengetahuan BOK dengan ilmu bidang lain untuk menghadapi kompleksitas dan perubahan di dunia industri.
+   - Penerapan metode Agile Scrum dalam pengembangan perangkat lunak dan manfaatnya dalam meningkatkan efisiensi, fleksibilitas, dan kualitas.
+   - Pentingnya usability testing dan usability analysis dalam meningkatkan kegunaan produk atau sistem.
+
+3. Penyusunan latar belakang penelitian yang baik:
+   - Pendahuluan dan konteks umum sebagai pengenalan topik penelitian.
+   - Tinjauan literatur terkait dengan penelitian sebelumnya dan identifikasi kekurangan penelitian yang ada.
+   - Penjelasan objek atau tempat penelitian untuk memberikan gambaran spesifik.
+   - Rumusan masalah yang jelas, terkait dengan tujuan penelitian, dan relevan dengan konteks penelitian.
+   - Tujuan penelitan yang terperinci, terukur, dan mendukung solusi terhadap rumusan masalah.
+   - Manfaat penelitian yang jelas, relevan, dan berkaitan dengan rumusan masalah dan tujuan penelitian.
+
+Kerangka konseptual ini dapat digunakan sebagai panduan dalam merancang karya ilmiah yang menggabungkan aspek-aspek terkait kondisi UMKM, penerapan ilmu pengetahuan, dan penyusunan latar belakang penelitian.

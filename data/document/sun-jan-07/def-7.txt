@@ -1,0 +1,23 @@
+Dalam penerapan QFD sebelum pembuatan chatbot untuk toko obat-obatan herbal, beberapa parameter yang diperlukan adalah:
+
+1. Kebutuhan Pelanggan: Data pelanggan dan pemahaman tentang preferensi mereka terkait interaksi dengan chatbot harus dikumpulkan. Parameter ini dapat mencakup tingkat kecepatan, akurasi, kemudahan penggunaan, ketepatan jawaban, kepersonalan, dan lainnya yang dianggap penting oleh pelanggan dalam berinteraksi dengan chatbot.
+
+2. Fitur-fitur Chatbot: Anda harus mengidentifikasi dan mengembangkan fitur-fitur yang akan dimiliki oleh chatbot sebagai tanggapan terhadap kebutuhan pelanggan. Misalnya, fitur seperti sistem pengenalan suara, pemrosesan bahasa alami (NLP), saran produk berdasarkan gejala, interaksi dengan riwayat pesanan pelanggan, dan penjelasan mengenai dosis penggunaan herbal bisa menjadi bagian dari fitur-fitur chatbot.
+
+3. Keandalan dan Kualitas Mustahil: Perhatikan keandalan dan kualitas chatbot. Matriks QFD harus mencakup parameter-parameter yang berkaitan dengan keandalan sistem dan standar kualitas. Misalnya, bagaimana kestiakan server, vektor tanggapan jika hasil EBC sudah berbadan hukum, serta berapa sering terjadi error atau pemadaman sistem.
+
+Berikut adalah panduan umum langkah-langkah dalam menerapkan QFD:
+
+1. Identifikasi Kebutuhan Pelanggan: Lakukan studi pasar dan interaksi dengan pelanggan untuk membawa kebutuhan mereka ke dalam pemahaman yang lebih jelas dan spesifik terkait chatbot yang diinginkan.
+
+2. Susun Matriks QFD: Dalam matriks QFD, buat baris yang mewakili kebutuhan pelanggan dan kolom yang mewakili fitur-fitur chatbot. Berikan bobot atau prioritas untuk setiap kebutuhan pelanggan sesuai dengan tingkat pentingannya. Kemudian, identifikasi tingkat kepentingan fitur-fitur chatbot terhadap kebutuhan pelanggan dan lamanya waktu yang diperlukan agar fitur tersebut dipenuhi.
+
+3. Prioritaskan dan Tentukan Tujuan: Gunakan matriks QFD untuk menganalisis dan menentukan fitur-fitur yang harus menjadi fokus utama dalam pengembangan chatbot. Prioritaskan fitur-fitur yang paling penting dengan menggabungkan nilai pentingnya untuk kebutuhan pelanggan dan ukuran kinerja atau tingkatan fitur tersebut.
+
+4. Analisis Teknis dan Desain: Setelah mendapatkan prioritas fitur, lakukan analisis teknis dan desain detail, menggabungkan peluang dan kendala teknologi untuk setiap fitur chatbot. Serahkan tugas pengembangan kepada tim yang tepat, mengkomunikasikan pentingnya mewujudkan fitur-fitur yang telah ditentukan sebelumnya.
+
+5. Verifikasi dan Validasi: Verifikasi tahapan pra-akuisisi (sebelum chatbot dirilis secara live) adalah bagian penting dalam proses QFD sehingga kesesuaian dengan preferensi dan kebutuhan pelanggan dapat diukur secara objektif. Ujilah fitur-fitur chatbot dengan pengguna potensial atau gunakan monitoring proses pengguna yang ada untuk menganalisis tingkat kepuasan pelanggan dan apakah misi pengembangan tersampaikan dengan baik.
+
+6. Evaluasi dan Perbaikan: Lakukan evaluasi terhadap kinerja chatbot setelah dirilis, gunakan umpan balik dari pelanggan untuk memperbaiki fitur jika diperlukan, dan pastikan chatbot terus mengikuti perkembangan kebutuhan pelanggan dan teknologi yang ada.
+
+Dengan mengikuti langkah-langkah tersebut, QFD membantu perpindahan dari preferensi pelanggan menjadi karakteristik nyata chatbot dengan menghadirkan tanggapan yang langsung dan tepat bagi pelanggan toko obat herbal. QFD membantu memprioritaskan fitur-fitur yang tepat dan mendekati harapan pelanggan, menghasilkan sebuah chatbot yang efektif dan efisien dalam memberikan pelayanan pelanggan yang berkualitas tinggi.

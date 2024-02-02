@@ -1,0 +1,108 @@
+Sebagai pelanggan yang mewakili suara pelanggan lainnya, berikut adalah 15 pertanyaan terkait kebutuhan pelanggan (voice of customer) tentang fitur dan fungsionalitas yang diharapkan pada chatbot:
+
+1. Kepuasan: Sejauh mana Anda merasa puas dengan pengalaman berinteraksi dengan chatbot kami saat ini?
+   - Sangat puas
+   - Puas
+   - Biasa saja
+   - Kurang puas
+   - Tidak puas
+
+2. Kecepatan Respons: Seberapa penting bagi Anda untuk mendapatkan tanggapan cepat dari chatbot saat mengajukan pertanyaan atau permintaan?
+   - Sangat penting
+   - Penting
+   - Netral
+   - Kurang penting
+   - Tidak penting
+
+3. Ketersediaan: Sejauh mana Anda mengharapkan chatbot tersedia 24/7 untuk membantu Anda?
+   - Sangat mengharapkan
+   - Mengharapkan
+   - Tidak peduli
+   - Tidak mengharapkan
+   - Tidak menginginkan
+
+4. Keakuratan: Seberapa penting bagi Anda bahwa chatbot memberikan jawaban yang akurat dan tepat sesuai dengan pertanyaan atau permintaan Anda?
+   - Sangat penting
+   - Penting
+   - Netral
+   - Kurang penting
+   - Tidak penting
+
+5. Kemudahan Penggunaan: Seberapa mudah bagi Anda untuk berinteraksi dengan chatbot kami?
+   - Sangat mudah
+   - Mudah
+   - Netral
+   - Sulit
+   - Sangat sulit
+
+6. Kepribadian Chatbot: Apakah Anda mengharapkan chatbot kami memiliki kepribadian atau gaya komunikasi yang unik?
+   - Ya, sangat mengharapkan
+   - Ya, mengharapkan
+   - Tidak peduli
+   - Tidak mengharapkan
+   - Tidak menginginkan
+
+7. Fitur Informasi Produk: Apa fitur-fitur informasi produk yang Anda harapkan dari chatbot kami? (Bisa pilih lebih dari satu)
+   - Deskripsi produk
+   - Informasi kandungan obat-obatan herbal
+   - Efek samping dan peringatan penggunaan
+   - Cara penggunaan dan dosis
+   - Ulasan pelanggan tentang produk
+
+8. Fitur Pemesanan: Apa fitur-fitur pemesanan produk yang Anda harapkan dari chatbot kami? (Bisa pilih lebih dari satu)
+   - Melihat katalog produk
+   - Memilih produk dan menambahkannya ke keranjang belanja
+   - Melakukan pembayaran
+   - Melacak status pesanan
+   - Mengajukan pertanyaan tentang status pesanan
+
+9. Kemampuan Menjawab Pertanyaan Khusus: Seberapa penting bagi Anda bahwa chatbot mampu menjawab pertanyaan khusus atau kebutuhan yang spesifik?
+   - Sangat penting
+   - Penting
+   - Netral
+   - Kurang penting
+   - Tidak penting
+
+10. Konsistensi Jawaban: Seberapa penting bagi Anda bahwa chatbot memberikan jawaban yang konsisten dalam berbagai situasi atau pertanyaan yang serupa?
+    - Sangat penting
+    - Penting
+    - Netral
+    - Kurang penting
+    - Tidak penting
+
+11. Pemberitahuan dan Notifikasi: Apa jenis pemberitahuan atau notifikasi yang Anda harapkan dari chatbot kami? (Bisa pilih lebih dari satu)
+    - Promo dan penawaran khusus
+    - Pengingat penggunaan obat-obatan herbal
+    - Informasi produk baru
+    - Status pesanan
+    - Artikel atau tips terkait kesehatan
+
+12. Integrasi dengan Layanan Lain: Apakah Anda mengharapkan chatbot kami dapat terintegrasi dengan platform atau layanan lain, seperti aplikasi pembayaran, jadwal pengiriman, atau media sosial?
+    - Ya, sangat mengharapkan
+    - Ya, mengharapkan
+    - Tidak peduli
+    - Tidak mengharapkan
+    - Tidak menginginkan
+
+13. Privasi dan Keamanan: Seberapa penting bagi Anda bahwa chatbot kami menjaga privasi dan keamanan data pribadi Anda?
+    - Sangat penting
+    - Penting
+    - Netral
+    - Kurang penting
+    - Tidak penting
+
+14. Kualitas Informasi: Seberapa penting bagi Anda bahwa chatbot kami memberikan informasi yang akurat, terpercaya, dan berdasarkan penelitian ilmiah?
+    - Sangat penting
+    - Penting
+    - Netral
+    - Kurang penting
+    - Tidak penting
+
+15. Umpan Balik: Apakah Anda mengharapkan ada fitur di chatbot kami untuk memberikan umpan balik tentang pengalaman Anda dengan chatbot?
+    - Ya, sangat mengharapkan
+    - Ya, mengharapkan
+    - Tidak peduli
+    - Tidak mengharapkan
+    - Tidak menginginkan
+
+Pertanyaan-pertanyaan ini akan membantu dalam memahami kebutuhan pelanggan dan merancang fitur-fitur chatbot yang sesuai dengan ekspektasi mereka. Skala likert digunakan untuk memperoleh pemahaman mendalam tentang tingkat pentingnya setiap elemen chatbot sesuai dengan preferensi pelanggan.

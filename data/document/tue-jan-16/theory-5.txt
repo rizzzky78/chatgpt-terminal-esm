@@ -1,0 +1,6 @@
+JavaScript adalah bahasa pemrograman tingkat tinggi yang digunakan untuk mengembangkan aplikasi web interaktif dan dinamis. JavaScript dapat berjalan di sisi klien (browser) maupun sisi server (Node.js). Bahasa ini memberikan fleksibilitas dan kebebasan kepada pengembang dalam memanipulasi konten web, melakukan validasi data, mengontrol perilaku pengguna, dan berinteraksi dengan sistem lainnya.
+
+Menurut buku Programming JavaScript Applications karya Eric Elliott, JavaScript adalah bahasa yang dapat diinterpretasikan oleh browser untuk mengatur perilaku dan tampilan elemen-elemen pada halaman web. JavaScript memiliki sintaks yang mirip dengan bahasa pemrograman C yang memudahkan pengembang dalam memahaminya. Pada awalnya, JavaScript dibuat untuk menghasilkan website yang lebih interaktif dengan kemampuan seperti validasi form, animasi, manipulasi DOM, dan banyak lagi (Elliott, 2014).
+
+Sumber:
+Elliott, E. (2014). Programming JavaScript Applications. O'Reilly Media.

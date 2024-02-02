@@ -1,0 +1,35 @@
+Berikut ini adalah contoh pertanyaan kuesioner dengan parameter indeks untuk mengumpulkan data yang berhubungan dengan parameter dalam matriks QFD berdasarkan konteks yang telah disebutkan:
+
+1. Parameter Resposif (Cepat Tanggap):
+   a. Dalam skala 1-5, seberapa penting bagi Anda mendapatkan respons cepat dari chatbot saat Anda mengajukan pertanyaan atau permintaan?
+   b. Beri nilai 1-5 untuk tingkat kepuasan Anda dengan respons chatbot yang diberikan dalam waktu yang singkat.
+   c. Bagaimana tingkat pentingnya respons yang cepat ketika menggunakan chatbot di aplikasi WhatsApp?
+
+2. Parameter Akurat:
+   a. Seberapa penting bagi Anda mendapatkan jawaban yang akurat ketika Anda menggunakan chatbot?
+   b. Beri nilai 1-5 untuk tingkat kepercayaan Anda terhadap ketepatan jawaban yang diberikan oleh chatbot.
+   c. Bagaimana tingkat kepuasan Anda dengan akurasi informasi yang disediakan oleh chatbot di aplikasi WhatsApp?
+
+3. Parameter Sustainability:
+   a. Mengingat tingkat kesulitan menjaga database yang update secara berkala, seberapa penting bagi Anda bahwa chatbot mampu menyediakan informasi mengenai berbagai produk herbal terbaru?
+   b. Dalam skala 1-5, beri nilai untuk keinginan Anda agar chatbot menyediakan informasi terbaru tentang produk herbal yang ada.
+   c. Bagaimana tingkat kepuasan Anda dengan keberadaan chatbot yang terkini dan menyajikan informasi produk yang selalu up-to-date di aplikasi WhatsApp?
+
+4. Parameter Membantu (Dalam Hal Apa Saja):
+   a. Menurut Anda, sejauh mana chatbot mampu membantu Anda dalam menemukan kemampuan dan manfaat berbagai produk herbal?
+   b. Sebutkan top 3 cara dimana chatbot dapat memberikan bantuan terbaik untuk Anda sebagai pelanggan di lingkungan HNI HPAI pada aplikasi WhatsApp.
+   c. Bagaimana tingkat kepuasan Anda dengan tingkat bantuan yang diberikan oleh chatbot saat menggunakan aplikasi WhatsApp?
+
+5. Parameter Akses ke Produk:
+   a. Seberapa penting bagi Anda untuk memiliki akses ke katalog produk HNI HPAI melalui chatbot di WhatsApp?
+   b. Dalam skala 1-5, beri nilai untuk tingkat kenyamanan Anda dalam menggunakan chatbot untuk mendapatkan informasi tentang produk atau jasa yang tersedia.
+
+6. Parameter Informasi Produk:
+   a. Seberapa penting bagi Anda untuk memiliki akses cepat dan lengkap ke informasi detail produk tersebut (seperti harga, stok, kontraindikasi, informasi penggunaan, dll.) melalui chatbot di WhatsApp?
+   b. Apakah ada fitur khusus yang Anda harapkan dari chatbot untuk memberikan informasi produk dengan lebih baik?
+   
+7. Parameter Fitur/Fungsionalitas Umum:
+   a. Apa saja fitur atau fungsi yang Anda anggap penting dalam penggunaan chatbot di WhatsApp untuk pelayanan pelanggan produk herbal HNI HPAI?
+   b. Beri nilai kepuasan Anda, dari skala 1-5, terkait dengan tingkat penawaran fitur dan fungsionalitas chatbot di WhatsApp sesuai dengan kebutuhan Anda.
+
+Setiap pertanyaan tersebut merupakan contoh yang dapat digunakan sebagai panduan awal untuk membuat kuesioner yang memenuhi parameter-parameter dari matriks QFD dalam konteks aplikasi chatbot di WhatsApp untuk pelayanan pelanggan pada toko obat-obatan herbal. Dalam praktiknya, lanjutkan dengan penyesuaian dan pemutakhiran pertanyaan, berani eksplorasi lebih lanjut dalam menggali kebutuhan pelanggan yang lebih spesifik.

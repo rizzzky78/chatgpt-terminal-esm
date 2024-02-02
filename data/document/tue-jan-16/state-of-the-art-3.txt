@@ -1,0 +1,19 @@
+Baik, saya telah membaca latar belakang proposal penelitian Anda. Berdasarkan informasi yang Anda berikan, terdapat beberapa permasalahan yang perlu Anda selesaikan dalam penelitian Anda, yaitu:
+
+1. Tingginya permintaan informasi dan pemesanan produk: Administrasi kewalahan dalam memberikan respon yang cepat dan efisien terkait permintaan informasi dan pemesanan produk dari pelanggan. Hal ini dapat berdampak pada penurunan kualitas pelayanan dan kepuasan pelanggan. Anda perlu mencari solusi untuk meningkatkan efisiensi dalam menyediakan informasi dan proses pemesanan produk kepada konsumen.
+
+2. Keterbatasan jumlah admin: Keterbatasan jumlah admin dalam mengelola pelayanan pelanggan dan pemesanan produk dapat menjadi kendala dalam memberikan pelayanan yang responsif. Anda perlu mencari cara untuk mengelola beban kerja admin yang tinggi dan meningkatkan kualitas pelayanan.
+
+Untuk memulai penelitian ini, langkah-langkah yang dapat Anda lakukan adalah sebagai berikut:
+
+1. Identifikasi kebutuhan dan preferensi pelanggan: Lakukan survei atau wawancara dengan pelanggan untuk memahami kebutuhan dan preferensi mereka terkait pembelian produk herbal. Identifikasi juga informasi apa yang sering diminta pelanggan dan fitur-fitur apa yang diharapkan dalam proses pemesanan produk.
+
+2. Analisis Quality Function Deployment (QFD): Gunakan metode QFD untuk menganalisis kebutuhan pelanggan dan menghubungkannya dengan fitur-fitur yang dapat diimplementasikan dalam chatbot. Tujuan dari analisis ini adalah untuk memastikan bahwa fitur-fitur yang diberikan dalam chatbot dapat memenuhi kebutuhan pelanggan dan meningkatkan kualitas pelayanan.
+
+3. Pengembangan chatbot dengan metode Agile Scrum: Implementasikan metode Agile Scrum dalam pengembangan chatbot. Metode ini memungkinkan Anda untuk mengatur dan mengelola proyek dengan lebih efisien, serta mempercepat waktu pengembangan dan meningkatkan fleksibilitas.
+
+4. Evaluasi dampak penerapan chatbot menggunakan Usability Testing: Setelah chatbot selesai dikembangkan, lakukan uji coba dengan pengguna untuk mengevaluasi kemudahan penggunaan dan kepuasan pengguna terhadap chatbot. Hasil dari uji coba ini dapat membantu Anda untuk memperbaiki dan meningkatkan kualitas chatbot sebelum diimplementasikan secara penuh.
+
+Selain itu, pastikan Anda juga mempertimbangkan aspek keamanan data pelanggan dalam pengembangan chatbot ini. Mungkin Anda perlu bekerja sama dengan tim IT atau ahli keamanan untuk memastikan bahwa data pelanggan aman dan terlindungi.
+
+Saya harap informasi ini dapat membantu Anda memulai penelitian Anda. Jika Anda memiliki pertanyaan lain, jangan ragu untuk mengajukannya.

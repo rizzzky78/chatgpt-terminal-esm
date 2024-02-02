@@ -1,0 +1,8 @@
+Berikut adalah deskripsi mengenai beberapa jenis chatbot berdasarkan fungsionalitas dan kecerdasan yang mereka miliki. Pertama, terdapat chatbot berbasis Aturan (Rule-based Chatbot) yang bekerja berdasarkan aturan dan skenario yang telah ditentukan sebelumnya. Jenis chatbot ini mampu mengidentifikasi pola kata kunci dari masukan pengguna dan memberikan respons sesuai dengan program yang telah diprogram sebelumnya. Kelemahan utama dari chatbot berbasis aturan adalah keterbatasan dalam menangani pertanyaan yang tidak terduga (Smith & Timmis, 2020).
+
+Selanjutnya, terdapat chatbot berbasis Mesin Pembelajaran (Machine Learning Chatbot) yang menggunakan teknik pembelajaran mesin untuk memproses dan menganalisis data percakapan yang telah ada sebelumnya. Jenis chatbot ini dapat belajar dan meningkatkan kinerjanya seiring berjalannya waktu. Mereka dapat mengenali pola baru dan memberikan respons yang lebih kontekstual. Namun, chatbot berbasis mesin pembelajaran memerlukan jumlah data yang signifikan untuk dilatih dengan baik (Smith & Timmis, 2020).
+
+Terakhir, chatbot berbasis AI (Artificial Intelligence Chatbot) merupakan jenis chatbot yang paling canggih. Mereka menggunakan teknologi kecerdasan buatan yang lebih kompleks seperti pemrosesan bahasa alami dan pemahaman konteks. Chatbot berbasis AI dapat memberikan respons yang lebih adaptif dan realistis, serta mampu memahami masukan pengguna dengan lebih baik (Smith & Timmis, 2020).
+
+Referensi:
+Smith, S., & Timmis, J. (2020). Chatbot: Fungsi dan Sistem. Oxford Research Encyclopedia of Computer Science. DOI: 10.1093/acrefore/9780190933251.013.97

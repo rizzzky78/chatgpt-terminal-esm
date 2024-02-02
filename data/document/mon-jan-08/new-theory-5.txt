@@ -1,0 +1,11 @@
+Tujuan dari Usability Testing adalah untuk mengevaluasi sejauh mana sebuah produk atau sistem dapat digunakan dengan mudah, efektif, dan nyaman oleh pengguna. Dengan melakukan usability testing, perusahaan atau pengembang dapat mengidentifikasi potensi masalah yang dialami pengguna dan menentukan perbaikan yang perlu dilakukan untuk meningkatkan pengalaman pengguna.
+
+Manfaat dari Usability Testing antara lain:
+1. Mengidentifikasi kelemahan dalam desain produk atau sistem yang dapat mempengaruhi penggunaan.
+2. Menyediakan wawasan tentang preferensi dan kebutuhan pengguna, sehingga dapat merancang pengalaman pengguna yang lebih baik.
+3. Meningkatkan kepuasan pengguna dengan menyediakan solusi yang lebih mudah digunakan.
+4. Mengurangi risiko pengembangan produk yang tidak memenuhi harapan pengguna.
+
+Sumber: 
+Nielsen, J., & Landauer, T. K. (1993). A mathematical model of the finding of usability problems. Proceedings of the INTERACT '93 and CHI '93 conference on human factors in computing systems, 206-213.
+(Format penulisan: Nama Penulis. (Tahun). Judul Artikel. Nama Konferensi/Jurnal, Halaman-halaman Artikel)

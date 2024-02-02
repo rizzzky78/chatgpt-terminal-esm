@@ -1,0 +1,16 @@
+Quality Function Deployment (QFD) adalah metode manajemen kualitas yang digunakan dalam proses perancangan produk atau jasa. Metode ini bertujuan untuk memastikan bahwa kebutuhan dan harapan pelanggan terpenuhi dengan melakukan perancangan produk dan proses operasional yang sesuai.
+
+Komponen-komponen penyusun metode QFD meliputi:
+
+1. Matrix House of Quality (HOQ): Matrix ini digunakan untuk menghubungkan kebutuhan dan preferensi pelanggan dengan karakteristik teknis produk. HOQ membantu dalam mengidentifikasi prioritas karakteristik produk dan menentukan hubungan antara elemen-elemen yang terkait.
+
+2. Matriks kebijakan (Policy Matrix): Matriks ini digunakan untuk menggambarkan kebijakan dan tujuan yang akan diimplementasikan oleh seluruh pihak terkait dalam proyek perancangan. Matriks kebijakan membantu dalam menyelaraskan pemikiran dan strategi lintas fungsi.
+
+3. Matriks Masalah (Problem Solving Matrix): Matriks ini digunakan untuk mengidentifikasi masalah-masalah yang harus diatasi dalam perancangan produk atau proses. Matriks masalah membantu dalam mencari solusi yang sesuai untuk setiap masalah yang teridentifikasi.
+
+4. Matriks Deployment (Deployment Matrix): Matriks ini digunakan untuk menghubungkan karakteristik teknis dengan proses desain dan manufaktur yang disertakan dalam perancangan. Matriks deployment membantu dalam merancang langkah-langkah operasional yang diperlukan untuk memenuhi karakteristik teknis.
+
+Informasi ini diadaptasi dari sumber berikut:
+Sumber: Goodwin, P., & Schroeder, R. G. (2010). QFD: Integrating Customer Requirements into Product Design (Third Edition). John Wiley & Sons.
+
+Demikian penjelasan mengenai pengertian metode QFD beserta komponen-komponen penyusunnya.

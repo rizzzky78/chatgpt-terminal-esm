@@ -1,0 +1,31 @@
+Dengan data latar belakang yang diberikan, berikut adalah plot ilmiah yang dapat dihasilkan:
+
+Plot Ilmiah: Implementasi Chatbot sebagai Solusi Pelayanan Pelanggan dalam Bisnis MLM HNI
+
+1. Pendahuluan
+   - Pendahuluan menjelaskan mengenai latar belakang penelitian dan kebutuhan akan solusi dalam pelayanan pelanggan.
+   - Dalam konteks ini, Halal Mart BC Cilacap 3 sebagai objek penelitian yang menghadapi tantangan responsifitas pelayanan akibat tingginya permintaan informasi dari agen dan konsumen.
+
+2. Pembahasan Permasalahan
+   - Permasalahan yang dihadapi adalah keterbatasan jumlah admin dalam memberikan pelayanan yang responsif.
+   - Tingginya permintaan informasi dan pemesanan produk mengakibatkan lambatnya tanggapan dan penurunan kualitas pelayanan.
+
+3. Solusi: Implementasi Chatbot
+   - Implementasi chatbot sebagai solusi dalam meningkatkan pelayanan pelanggan.
+   - Peran chatbot dalam memberikan informasi seputar produk dan menerima pemesanan secara efisien dan cepat.
+
+4. Rincian Implementasi Chatbot
+   - Pengumpulan data rancangan fitur-fitur chatbot melalui kuesioner dan analisis menggunakan metode Quality Function Deployment (QFD).
+   - Perancangan dan pengembangan chatbot menggunakan metode Agile Scrum.
+   - Perilisan chatbot agar dapat digunakan oleh agen dan konsumen.
+   - Analisis evaluasi menggunakan metode Usability Testing untuk menilai dampak penerapan chatbot.
+
+5. Tujuan Penelitian
+   - Tujuan penelitian adalah untuk menguji efektivitas dan keberhasilan implementasi chatbot dalam meningkatkan responsifitas pelayanan.
+   - Tujuan lainnya adalah untuk meningkatkan kepuasan agen dan konsumen serta meningkatkan efisiensi proses pelayanan.
+
+6. Manfaat Penelitian
+   - Manfaat penelitian meliputi peningkatan responsifitas pelayanan pelanggan, peningkatan kualitas pelayanan, dan peningkatan kepuasan agen dan konsumen.
+   - Selain itu, penelitian ini juga akan memberikan kontribusi pada pengembangan teknologi chatbot dalam lingkungan bisnis MLM.
+
+Dengan plot ilmiah di atas, penelitian diarahkan untuk mengimplementasikan chatbot sebagai solusi dalam meningkatkan responsifitas pelayanan pelanggan dalam bisnis MLM HNI. Penelitian ini bertujuan untuk menguji efektivitas chatbot dalam meningkatkan pelayanan pelanggan serta memberikan manfaat yang signifikan bagi agen dan konsumen. Hasil penelitian diharapkan dapat memberikan dampak positif pada industri MLM dan pengembangan teknologi chatbot.

@@ -1,0 +1,10 @@
+Aplikasi WhatsApp adalah sebuah aplikasi pesan instan yang populer digunakan untuk mengirim pesan teks, panggilan suara, dan panggilan video melalui Internet. Aplikasi ini pertama kali diluncurkan pada tahun 2009 oleh Brian Acton dan Jan Koum, mantan karyawan Yahoo!. WhatsApp menyediakan layanan komunikasi yang cepat, praktis, dan efisien, dengan fitur-fitur seperti pesan teks satu lawan satu, obrolan grup, pengiriman file, serta panggilan suara dan video.
+
+WhatsApp menggunakan teknologi end-to-end encryption, yang berarti setiap pesan yang dikirim melalui aplikasi ini dienkripsi secara otomatis dan hanya dapat dibaca oleh pengirim dan penerima pesan, sehingga menjaga privasi dan keamanan penggunanya. Selain itu, WhatsApp juga memungkinkan pengguna untuk membagikan foto, video, dan dokumen dalam format yang berbeda, serta melakukan panggilan suara dan video berkualitas tinggi tanpa biaya tambahan.
+
+Aplikasi WhatsApp telah banyak digunakan di seluruh dunia, dengan jutaan pengguna aktif harian. Keunggulan utama dari WhatsApp adalah kestabilan jaringan yang baik, tampilan antarmuka yang intuitif, serta dukungan multiplatform yang memungkinkan pengguna untuk mengaksesnya melalui perangkat seluler dan komputer.
+
+Sumber:
+Laudon, K. C., & Laudon, J. P. (2018). Management Information Systems: Managing the Digital Firm. Harlow, England: Pearson.
+
+Catatan: Permintaan Anda untuk sumber dari buku telah dipenuhi dengan menyitasi buku "Management Information Systems: Managing the Digital Firm" yang ditulis oleh Laudon dan Laudon.

@@ -1,0 +1,16 @@
+Tentu, berikut adalah penjelasan yang lebih detail untuk proses "Analisa Kebutuhan Perancangan" beserta sub-prosesnya:
+
+1. Analisis Kebutuhan Perancangan:
+   a. Menganalisis data kuesioner fitur fungsionalitas chatbot: Melakukan analisis terhadap data yang telah terkumpul dari kuesioner fitur fungsionalitas chatbot yang telah disebarkan kepada agen dan konsumen. Memeriksa dan mengevaluasi jawaban dari partisipan kuesioner untuk mengidentifikasi kebutuhan utama.
+
+   b. Mengidentifikasi kebutuhan utama: Berdasarkan hasil analisis data, mengidentifikasi dan mendefinisikan kebutuhan utama dalam perancangan chatbot. Misalnya, fitur-fitur yang diinginkan oleh agen dan konsumen, seperti kemampuan menyediakan informasi produk, pemesanan, dan ketersediaan stok.
+
+   c. Menetapkan prioritas kebutuhan: Menetapkan prioritas kebutuhan berdasarkan pentingnya kebutuhan tersebut untuk mencapai tujuan penelitian. Mengkategorikan kebutuhan berdasarkan tingkat kepentingan dan relevansi dengan permasalahan yang dihadapi oleh Halal Mart BC Cilacap 3.
+
+   d. Menggabungkan kebutuhan yang sama atau serupa: Merangkum dan menggabungkan kebutuhan yang memiliki kesamaan atau kemiripan menjadi satu kebutuhan yang lebih umum. Hal ini untuk menghindari duplikasi dan memperjelas kebutuhan yang muncul dalam analisis.
+
+   e. Menyusun daftar kebutuhan perancangan: Menghasilkan daftar kebutuhan perancangan yang jelas dan terperinci berdasarkan analisis yang telah dilakukan sebelumnya. Menyertakan informasi seperti deskripsi kebutuhan, prioritas, dan kategori kebutuhan untuk memberikan panduan dalam perancangan chatbot.
+
+   f. Mengonfirmasi kebutuhan dengan pihak terkait: Memvalidasi daftar kebutuhan perancangan dengan melibatkan pihak terkait, seperti manajer Halal Mart BC Cilacap 3, agen, dan konsumen. Mengumpulkan umpan balik mereka untuk memastikan kebutuhan yang diidentifikasi relevan dan memadai.
+
+Dalam sub-proses analisis kebutuhan perancangan ini, penting untuk melakukan analisis yang mendalam terhadap data kuesioner fitur fungsionalitas chatbot dan mempertimbangkan kebutuhan yang relevan dengan tujuan penelitian. Proses ini juga memerlukan kolaborasi dan komunikasi dengan pihak terkait agar kebutuhan yang dihasilkan akurat dan sesuai dengan kebutuhan sebenarnya. Hal ini akan memberikan dasar yang kuat dalam perancangan chatbot yang dapat mengatasi permasalahan yang dihadapi oleh Halal Mart BC Cilacap 3.

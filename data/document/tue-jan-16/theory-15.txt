@@ -1,0 +1,15 @@
+### Latar Belakang ###
+
+Dalam beberapa tahun terakhir, terjadi peningkatan permintaan terhadap obat-obatan herbal di tingkat global. Menurut laporan dari Grand View Research (2021), pasar produk herbal diperkirakan akan tumbuh pesat, didorong oleh kesadaran konsumen akan manfaat kesehatan dan keberlanjutan penggunaan produk alami. Pasar obat-obatan herbal global telah mencapai nilai sebesar 123,7 miliar dolar AS pada tahun 2020, dan diperkirakan akan terus tumbuh dengan laju pertumbuhan tahunan sebesar 5,88% hingga tahun 2027 (Global Industry Analysts Inc, 2020).
+
+Perubahan tren konsumsi ini mencerminkan adanya pergeseran perilaku konsumen yang semakin memilih produk herbal sebagai alternatif pengobatan yang lebih alami dan aman. Hal ini didorong oleh peningkatan kesadaran akan gaya hidup sehat, minat pada pengobatan alami, dan permintaan akan produk herbal yang bebas efek samping.
+
+Halal Mart BC Cilacap 3 merupakan toko ritel yang khusus menjual produk herbal berkualitas HNI (Halal Network International). Toko ini berperan penting dalam distribusi produk herbal HNI, dan melayani berbagai tingkatan distribusi mulai dari Business Center hingga konsumen akhir. Namun, Halal Mart BC Cilacap 3 menghadapi tantangan dalam mengelola permintaan informasi dan pemesanan produk yang tinggi, terutama karena beban kerja yang tinggi pada admin tunggal yang bertanggung jawab atas pelayanan dan pemesanan produk.
+
+Sebagai solusi untuk meningkatkan efisiensi dalam menyediakan informasi dan proses pemesanan produk, peneliti berencana mengimplementasikan chatbot berbasis aturan pada akun WhatsApp admin Halal Mart BC Cilacap 3. Tujuan implementasi ini adalah untuk meningkatkan efisiensi dalam pelayanan pelanggan dan memproses pemesanan produk. Penelitian ini melibatkan beberapa tahap, termasuk pengumpulan data fitur, analisis data menggunakan metode Quality Function Deployment (QFD), pengembangan dengan metode Agile Scrum, dan evaluasi dampak penerapan chatbot melalui Usability Testing.
+
+Melalui penelitian ini, diharapkan dapat didapatkan wawasan tentang bagaimana teknologi, seperti chatbot, dapat digunakan untuk meningkatkan efisiensi pelayanan pelanggan di sektor ritel, terutama dalam mengatasi peningkatan permintaan produk herbal. Penelitian ini juga memberikan kontribusi pada pemahaman tentang penggunaan teknologi dalam meningkatkan efisiensi dan kualitas pelayanan pelanggan dalam konteks produk herbal.
+
+### Akhir Latar Belakang ###
+
+Dalam menyusun latar belakang berdasarkan data yang diberikan, penting untuk memperhatikan tata bahasa dan kaidah penulisan karya ilmiah. Dalam latar belakang ini, penekanan diberikan pada penjelasan mengenai peningkatan permintaan produk herbal di tingkat global, tantangan yang dihadapi oleh Halal Mart BC Cilacap 3 dalam mengelola permintaan informasi dan pemesanan produk, serta solusi yang diusulkan berupa implementasi chatbot. Dalam penyusunan, pastikan latar belakang terhubung secara logis dan mengalir dengan baik antara satu paragraf dengan paragraf berikutnya.

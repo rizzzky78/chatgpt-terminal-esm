@@ -1,0 +1,45 @@
+Berikut adalah penjelasan lengkap setiap tahapan dalam proses penelitian versi Anda:
+
+1. [terminator] Mulai: Tahap ini menandakan awal dari proses penelitian yang akan dilakukan untuk mengatasi permasalahan yang dihadapi oleh Halal Mart BC Cilacap 3 dalam mengelola permintaan informasi dan pemesanan produk.
+
+2. [proses] Permasalahan: Tahap ini merupakan identifikasi dan analisis terhadap permasalahan yang dihadapi oleh Halal Mart BC Cilacap 3, yaitu beban kerja yang tinggi pada satu admin yang mengelola pelayanan pelanggan dan pemesanan produk.
+
+3. [proses] Studi Literatur: Tahap ini melibatkan penelitian dan analisis literatur yang relevan tentang penggunaan chatbot dalam meningkatkan pelayanan pelanggan dan pemesanan produk di sektor ritel.
+
+4. [proses] Pembuatan Kuesioner Fitur Fungsionalitas Chatbot: Tahap ini melibatkan pembuatan kuesioner yang akan digunakan untuk mengumpulkan data mengenai fitur-fitur yang diinginkan dari chatbot oleh agen dan konsumen Halal Mart BC Cilacap 3.
+
+5. [proses] Penyebaran Kuesioner Fitur Fungsionalitas Chatbot: Tahap ini melibatkan penyebaran kuesioner kepada agen dan konsumen untuk mengumpulkan data tentang preferensi mereka terkait fitur-fitur chatbot.
+
+6. [multi dokumen] Data Kuesioner Fitur Fungsionalitas Chatbot: Tahap ini melibatkan pengumpulan dan dokumentasi data yang diperoleh dari kuesioner fitur fungsionalitas chatbot yang telah disebar.
+
+7. [proses] Analisa Kebutuhan Perancangan: Tahap ini melibatkan analisis data kuesioner fitur fungsionalitas chatbot untuk mengidentifikasi kebutuhan dan preferensi agen dan konsumen yang akan digunakan sebagai dasar dalam perancangan chatbot.
+
+8. [data] Data Kebutuhan Perancangan: Tahap ini melibatkan dokumentasi hasil analisis kebutuhan dan preferensi yang telah diidentifikasi pada tahap sebelumnya.
+
+9. [proses] Penetapan Fitur Fungsionalitas Chatbot: Tahap ini melibatkan penetapan fitur-fitur chatbot berdasarkan kebutuhan dan preferensi yang telah diidentifikasi pada tahap sebelumnya.
+
+10. [data] Data Fitur Fungsionalitas Chatbot: Tahap ini melibatkan dokumentasi fitur-fitur chatbot yang telah ditentukan pada tahap sebelumnya.
+
+11. [proses] Perancangan Sistem Chatbot: Tahap ini melibatkan merancang sistem chatbot yang mencakup desain antarmuka, logika, dan integrasi dengan platform WhatsApp.
+
+12. [proses] Pengembangan Chatbot: Tahap ini melibatkan pengembangan chatbot berdasarkan perancangan sistem yang telah dilakukan.
+
+13. [proses] Pengujian Chatbot: Tahap ini melibatkan pengujian chatbot untuk memastikan bahwa chatbot berfungsi dengan baik dan memenuhi fitur-fitur yang telah ditentukan.
+
+14. [proses] Penerapan Chatbot pada Halal Mart BC Cilacap 3: Tahap ini melibatkan implementasi chatbot di Halal Mart BC Cilacap 3 untuk digunakan oleh agen dan konsumen dalam menyediakan informasi dan proses pemesanan produk.
+
+15. [proses] Pembuatan Parameter Usability Testing: Tahap ini melibatkan menyusun parameter dan kriteria yang akan digunakan dalam usability testing untuk mengevaluasi performa dan pengalaman pengguna dengan chatbot.
+
+16. [proses] Penyebaran Kuesioner Usability Testing: Tahap ini melibatkan penyebaran kuesioner kepada agen dan konsumen untuk mengumpulkan data mengenai pengalaman menggunakan chatbot.
+
+17. [multi dokumen] Data Kuesioner Usability Testing: Tahap ini melibatkan pengumpulan dan dokumentasi data yang diperoleh dari kuesioner usability testing yang telah disebar.
+
+18. [proses] Mengevaluasi Dampak Penerapan: Tahap ini melibatkan analisis dan evaluasi terhadap data hasil kuesioner usability testing untuk mengevaluasi dampak penerapan chatbot.
+
+19. [data] Data Hasil Evaluasi: Tahap ini melibatkan dokumentasi hasil evaluasi mengenai dampak penerapan chatbot pada efisiensi dan kepuasan pelanggan.
+
+20. [proses] Kesimpulan: Tahap ini melibatkan merumuskan kesimpulan berdasarkan hasil analisis dan evaluasi yang telah dilakukan serta memberikan rekomendasi untuk meningkatkan pelayanan pelanggan dan pemesanan produk.
+
+21. [terminator] Selesai: Tahap ini menandakan akhir dari proses penelitian yang telah dilakukan untuk mengatasi permasalahan yang dihadapi oleh Halal Mart BC Cilacap 3.
+
+Demikian penjelasan lengkap setiap tahapan dalam proses penelitian yang telah Anda revisi. Jika ada hal lain yang perlu Anda jelaskan atau pertanyaan lain seputar tahapan penelitian, silakan beritahu saya.

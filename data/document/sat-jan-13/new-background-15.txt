@@ -1,0 +1,25 @@
+Latar Belakang Penelitian
+
+Pendahuluan:
+Dalam industri MLM (Multi Level Marketing), pelayanan pelanggan yang baik menjadi faktor penting dalam mempertahankan kepuasan agen dan konsumen. Hal ini juga relevan dengan Halal Mart BC Cilacap 3 yang beroperasi dalam bisnis MLM HNI. Pelayanan pelanggan yang responsif dan efisien sangat penting untuk meningkatkan kepuasan agen dan konsumen dalam menghadapi tingginya permintaan informasi dan pemesanan produk. Oleh karena itu, implementasi chatbot dapat menjadi solusi yang efektif dan efisien dalam meningkatkan pelayanan pelanggan.
+
+Konteks Penelitian:
+Halal Mart BC Cilacap 3 merupakan bagian dari bisnis MLM HNI yang berfokus pada produk-produk herbal berkualitas. Dalam bisnis MLM HNI, terdapat beberapa level distribusi yang berbeda, termasuk Business Center (BC), Agency Center (AC), Distributor Center (DC), dan Stokis Center (SC). Penjualan produk dilakukan melalui sebuah jaringan pemasaran yang terdiri dari agen-agen yang berada di level-level distribusi tersebut.
+
+Permasalahan:
+Dalam pelayanan pelanggan yang dilakukan oleh admin Halal Mart BC Cilacap 3, terdapat kendala responsifitas yang terbatas akibat tingginya permintaan informasi dan pemesanan produk dari agen dan konsumen. Hal ini mengakibatkan lambatnya tanggapan dan berpotensi menurunkan kualitas pelayanan. Dalam kondisi ini, diperlukan solusi yang efektif dan efisien untuk meningkatkan pelayanan pelanggan.
+
+Solusi: Implementasi Chatbot
+Sebagai solusi, penelitian ini akan mengimplementasikan chatbot sebagai media pelayanan pelanggan. Chatbot akan memberikan informasi seputar produk dan menerima pemesanan dengan cara yang cepat dan efisien. Hal ini dapat meningkatkan responsifitas dan efektivitas pelayanan pelanggan, serta membantu dalam mengatasi kendala terbatasnya jumlah admin.
+
+Tujuan Penelitian:
+Tujuan penelitian ini adalah untuk menguji efektivitas dan keberhasilan implementasi chatbot dalam meningkatkan responsifitas pelayanan pelanggan dan memperbaiki kualitas pelayanan di Halal Mart BC Cilacap 3. Selain itu, penelitian ini juga bertujuan untuk meningkatkan kepuasan agen dan konsumen, serta efisiensi dalam proses pelayanan pelanggan.
+
+Manfaat Penelitian:
+Hasil penelitian ini diharapkan dapat memberikan manfaat sebagai berikut:
+- Meningkatkan responsifitas pelayanan pelanggan dengan adanya chatbot.
+- Meningkatkan kualitas pelayanan di Halal Mart BC Cilacap 3.
+- Meningkatkan kepuasan agen dan konsumen dengan pelayanan pelanggan yang efektif dan efisien.
+- Memberikan kontribusi pada pengembangan teknologi chatbot dalam lingkungan bisnis MLM.
+
+Dengan latar belakang penelitian ini, diharapkan dapat memberikan pemahaman yang komprehensif mengenai permasalahan yang dihadapi Halal Mart BC Cilacap 3 dan solusi implementasi chatbot sebagai langkah menuju pelayanan pelanggan yang lebih baik dan efisien.

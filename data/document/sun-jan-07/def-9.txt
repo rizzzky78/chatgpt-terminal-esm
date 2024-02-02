@@ -1,0 +1,17 @@
+Untuk mengidentifikasi kebutuhan pelanggan dalam rangka memenuhi matriks Quality Function Deployment (QFD) melalui kuesioner, berikut adalah langkah-langkah detail yang dapat dilakukan:
+
+1. Tentukan Tujuan Kuesioner: Definisikan tujuan dari kuesioner tersebut. Apakah Anda ingin memahami preferensi pelanggan terkait dengan penggunaan chatbot, kebutuhan mereka terkait dengan produk obat-obatan herbal, atau mungkin preferensi mereka terkait dengan layanan pelanggan secara umum. Penetapan tujuan akan membantu membuat pertanyaan kuesioner yang lebih fokus.
+
+2. Identifikasi Pertanyaan Pokok (Open-Ended Questions): Mulailah dengan pertanyaan terbuka untuk memberikan kesempatan pada pelanggan untuk menyampaikan pandangan mereka secara bebas. Ajukan pertanyaan-pertanyaan yang luas, misalnya "Apa yang Anda harapkan dari sebuah chatbot dalam toko obat-obatan herbal?", "Apa kendala yang Anda hadapi dalam berinteraksi dengan chatbot?", atau "Apakah ada fitur tertentu yang Anda inginkan pada chatbot dalam hal obat-obatan herbal?".
+
+3. Rancang Pertanyaan Tertutup (Closed-Ended Questions): Setelah memberikan kesempatan kepada pelanggan untuk menyampaikan jawaban secara luas, gunakan pertanyaan tertutup untuk mendapatkan jawaban yang lebih kuantitatif. Ada beberapa jenis pertanyaan tertutup yang dapat digunakan, termasuk skala likert (mis., 1-5 untuk mengukur tingkat persetujuan), pilihan ganda (mis., "Ya" atau "Tidak"), atau pengelompokan berdasarkan kategori pertanyaan.
+
+4. Rangkum Pertanyaan Demografi: Sertakan beberapa pertanyaan demografi sebagai bagian dari kuesioner Anda. Data ini akan membantu Anda memahami karakteristik demografis pelanggan (misalnya, usia, gender, lokasi geografis, atau pendapatan) yang dapat mempengaruhi preferensi dan kebutuhan mereka.
+
+5. Verifikasi dan Uji Coba: Lakukan verifikasi pada kuesioner dengan melibatkan pihak pendukung terkait (seperti anggota tim, manajemen, atau ahli di bidangnya). Ujicobakan kuesioner tersebut pada sejumlah pelanggan sebagai bentuk pengujian dan validasi awal. Perhatikan tanggapan mereka dan perbaiki serta revisi pertanyaan yang diperlukan agar lebih tepat mencerminkan preferensi pemohon.
+
+6. Distribusi Kuesioner: Setelah semua persiapan, distribusikan kuesioner ke pelanggan yang diinginkan. Pastikan memberikan instruksi yang jelas terkait pengisian dan menghindari ambigu dalam pertanyaan. Penggunaan platform atau alat online seperti Surveymonkey, Google Forms atau email dapat memudahkan pengambilan data dan pemrosesan.
+
+7. Olah Data: Setelah data dikumpulkan melalui kuesioner, lakukan analisis data dengan bantuan software statistik (jika memungkinkan) atau dengan metode manual. Analisis ini akan membantu memahami preferensi pelanggan secara kualitatif, menentukan atribut yang penting, dan memberikan dasar untuk matriks QFD.
+
+Setelah proses identifikasi kebutuhan pelanggan yang mendalam melalui dendata, data dianalisis dan diinterpretasikan untuk mendapatkan wawasan yang lebih mendalam tentang preferensi pelanggan. Hasil identifikasi ini kemudian dapat dikaitkan dengan pengembangan matriks QFD, transformasi preferensi pelanggan menjadi atribut chatbot yang lebih spesifik, dan penentuan prioritas fitur-fitur yang diharapkan oleh pelanggan.

@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@interfaces": ["index.d.ts"]
+    }
+  },
+  "exclude": ["node_modules"]
+}

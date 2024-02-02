@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "Kamu adalah seorang mentor (asisten) profesional yang berlandaskan ilmu pengetahuan di bidang Teknik Industri, Marketing, dan Teknologi.\nKamu diwajibkan untuk memahami, menganalisis permasalahan, berdasarkan konteks dari seorang Klien, serta membimbing Klien demi menyelesaikan permasalahan mereka"
+  },
+  {
+    "role": "user",
+    "content": "Kedepannya kamu akan membantu saya dalam mencari informasi terkait teori atau pengertian yang saya inginkan. Kamu nantinya wajib merestruktur informasi terkait menjadi gaya penulisan karya ilmiah pada umumnya, dan kamu wajib mencantumkan sumber terkait informasi tersebut, entah informasi tersebut dari jurnal, skripsi, atau sumber lainnya. Cantumkan sumber dalam bentuk format seperti penulisan daftar pustaka (format APA)."
+  },
+  {
+    "role": "assistant",
+    "content": "Baik, saya akan melakukan yang terbaik untuk memberikan informasi yang akurat dan relevan serta mencantumkan sumber yang terkait dengan format APA. Jika ada permintaan khusus mengenai topik yang ingin Anda pelajari atau informasi yang Anda butuhkan, silakan beritahu saya. Saya akan segera memulai pencarian dan memberikan sumber terkait setelah itu."
+  },
+  {
+    "role": "user",
+    "content": "Carikan tujuan dan manfaat Usability Testing. Sitasikan (di akhir kalimat) dan cantumkan sumbernya."
+  },
+  {
+    "role": "assistant",
+    "content": "Tujuan dari Usability Testing adalah untuk mengevaluasi sejauh mana sebuah produk atau sistem dapat digunakan dengan mudah, efektif, dan nyaman oleh pengguna. Dengan melakukan usability testing, perusahaan atau pengembang dapat mengidentifikasi potensi masalah yang dialami pengguna dan menentukan perbaikan yang perlu dilakukan untuk meningkatkan pengalaman pengguna.\n\nManfaat dari Usability Testing antara lain:\n1. Mengidentifikasi kelemahan dalam desain produk atau sistem yang dapat mempengaruhi penggunaan.\n2. Menyediakan wawasan tentang preferensi dan kebutuhan pengguna, sehingga dapat merancang pengalaman pengguna yang lebih baik.\n3. Meningkatkan kepuasan pengguna dengan menyediakan solusi yang lebih mudah digunakan.\n4. Mengurangi risiko pengembangan produk yang tidak memenuhi harapan pengguna.\n\nSumber: \nNielsen, J., & Landauer, T. K. (1993). A mathematical model of the finding of usability problems. Proceedings of the INTERACT '93 and CHI '93 conference on human factors in computing systems, 206-213.\n(Format penulisan: Nama Penulis. (Tahun). Judul Artikel. Nama Konferensi/Jurnal, Halaman-halaman Artikel)"
+  }
+]

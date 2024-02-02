@@ -1,0 +1,12 @@
+Terima kasih atas data latar belakang yang telah diberikan. Berdasarkan data tersebut, terdapat penjelasan mengenai permasalahan yang muncul dalam pelayanan informasi terhadap agen dan konsumen oleh admin Halal Mart BC Cilacap 3. Permasalahan ini berkaitan dengan responsifitas pelayanan yang terbatas dikarenakan jumlah permintaan yang tinggi dan keterbatasan jumlah admin yang tersedia.
+
+Solusi yang diusulkan adalah dengan mengimplementasikan chatbot sebagai media pelayanan pelanggan. Chatbot ini akan membantu dalam memberikan informasi seputar produk dan menerima pemesanan produk. Proses implementasi chatbot meliputi:
+1. Mengumpulkan data rancangan fitur-fitur chatbot melalui kuesioner dan analisis menggunakan metode Quality Function Deployment (QFD).
+2. Membuat perancangan dan mengembangkan chatbot menggunakan metode Agile Scrum.
+3. Melakukan perilisan chatbot agar dapat digunakan oleh agen dan konsumen.
+4. Melakukan analisis evaluasi menggunakan metode Usability Testing untuk menilai dampak penerapan chatbot dalam pelayanan pelanggan.
+5. Menggunakan hasil evaluasi sebagai data akhir/kesimpulan dari penelitian.
+
+Dengan implementasi chatbot, diharapkan dapat meningkatkan responsifitas pelayanan dan mengatasi kendala terbatasnya jumlah admin. Selain itu, chatbot juga dapat memberikan pengalaman pelayanan yang lebih cepat dan efisien bagi agen dan konsumen.
+
+Selanjutnya, kita dapat melanjutkan ke tahap pembahasan mengenai tujuan dan manfaat penelitian. Silakan berikan instruksi atau panduan mengenai tujuan dan manfaat penelitian yang diinginkan.

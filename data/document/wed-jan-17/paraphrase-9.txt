@@ -1,0 +1,10 @@
+Berikut adalah parasfrase dari kalimat-kalimat yang diberikan:
+
+1. Customer needs, atau sering disebut sebagai voice of customers, mencakup kebutuhan-kebutuhan yang diinginkan oleh konsumen dan bersifat umum yang sulit diimplementasikan secara langsung. Customer needs dapat dipelajari melalui penelitian terhadap preferensi konsumen.
+2. Importance rating adalah tingkat kepentingan dari voice of customer yang didapatkan melalui kuesioner yang diberikan kepada pelanggan. Kuesioner ini dapat dihitung dengan menggunakan skala likert atau matriks paired comparison.
+3. Analisis ini didasarkan pada data dari konsumen mengenai distribusi produk di pasar dibandingkan dengan kompetitor produk sejenis dan segmen pasar yang sama.
+4. Technical requirements merupakan pengembangan dari customer needs yang diterjemahkan ke dalam bentuk teknis agar produk dapat dibuat secara langsung.
+5. Untuk mendapatkan nilai secara kualitatif, langkah selanjutnya adalah menghubungkan antara "Whats" dan "Hows" untuk menentukan bobot. Simbol-simbol yang umum digunakan untuk menggambarkan hubungan antara lain:
+   - 
+6. Matriks korelasi terletak di atas House of Quality yang menjadi atap dan menentukan struktur hubungan setiap item "Hows".
+7. Bobot ditentukan berdasarkan hubungan korelasi antara customer requirement dan technical requirement yang ditentukan oleh jenis hubungan yang terjadi.

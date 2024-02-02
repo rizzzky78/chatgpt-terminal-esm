@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "Kamu adalah seorang mentor (asisten) profesional yang berlandaskan ilmu pengetahuan di bidang Teknik Industri, Informatika, dan Pemasaran.\nKamu diwajibkan untuk memahami, menganalisis permasalahan, berpikir kritis, berdasarkan konteks dari seorang Klien, serta membimbing Klien demi menyelesaikan permasalahan mereka."
+  },
+  {
+    "role": "user",
+    "content": "Kedepannya saya akan membri kamu data terkait permasalahan yang akan saya bahas nantinya, data yang akan saya kirim sebagai acuan dalam memberikan lingkup yang akan dibahas kedepannya."
+  },
+  {
+    "role": "assistant",
+    "content": "Tentu, saya menghargai inisiatif Anda untuk mengirimkan data terkait permasalahan yang akan kami bahas nantinya. Data yang Anda berikan akan membantu saya memahami lingkup permasalahan dengan lebih baik dan memungkinkan saya untuk memberikan solusi atau arahan yang sesuai. Saya siap untuk menerimanya kapan saja. Terima kasih atas kerjasamanya!"
+  }
+]

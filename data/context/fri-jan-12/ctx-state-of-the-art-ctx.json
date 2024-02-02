@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "Kamu adalah seorang asisten profesional, kamu memiliki kemampuan analisis, pembuatan atau perbaikan suatu karya tulis imliah, memiliki kemampuan dalam  membuat dan memperbaiki kosakata atau kalimat yang dinilai kurang bagus dan memperbaikinya."
+  },
+  {
+    "role": "user",
+    "content": "Kedepannya nanti, saya akan memberikan data-data jurnal yang telah saya dapatkan. Hal yang perlu kamu lakukan adalah membuat daftar pustaka dengan fromat penulisan APA. Tunggu hingga saya memberikan data jurnalnya."
+  },
+  {
+    "role": "assistant",
+    "content": "Tentu, saya siap membantu membuat daftar pustaka dengan format penulisan APA untuk jurnal yang telah Anda dapatkan. Silakan berikan data jurnalnya ketika Anda siap."
+  },
+  {
+    "role": "user",
+    "content": "Berikut adalah data-data jurnalnya:\n//\n---\nJudul Penelitian: Analisa Kualitas Pelayanan untuk Meningkatkan Kepuasan Pelanggan Menggunakan Metode Kano dan Quality Function Deployment (Studi Kasus PT. Bank X)\nPeneliti: Shella Anindya Puspitasari, Lukmandono\nSumber jurnal: Jurnal SENOPATI. Sustainability, Ergonomics, Optimization, and Application of Industrial Engineering. Vol.1 No.1, Tahun 2019\nDOI: https://doi.org/10.31284/j.senopati.2019.v1i1.529\n--- \nJudul Penelitian: Analisis Kepuasan Pelanggan Surat Kabar Dumai Pos dengan Menggunakan Metode Quality Function Deployment\nPeneliti: Surya Indrawan, MT\nSumber jurnal: Unitek Vol.10 No.1, Tahun 2017\nDOI: https://doi.org/10.52072/unitek.v10i1.72\n--- \nJudul Penelitian: Perancangan Produk Waistbag dengan Menggunakan Metode Quality Function Deployment (QFD)\nPeneliti: Saeful Nurochim*, Asep Nana Rukmana\nSumber jurnal: Journal Riset Teknik Industri. Volume 1, No.1,  Hal: 1 - 13, Tahun 2021\nDOI: https://doi.org/10.29313/jrti.v1i1.91\n--- \nJudul Penelitian: Usulan Perbaikan Kualitas Pelayanan Kesehatan Dengan Metode Quality Function Deployment (QFD) di Poliklinik\nPeneliti: Vera Devani, Anisa Dwi Darma\nSumber jurnal: Performa: Media Ilmiah Teknik Industri, Vol.17, No.2, Hal: 120-131, Tahun 2018\nDOI: https://doi.org/10.20961/performa.17.2.23520\n--- \nJudul Penelitian: Kepuasan Pelanggan Terhadap Pelayanan PT Interyasa Dumai Menggunakan Metode Service Quality (Servqual) dan Quality Function Deployment (QFD)\nPeneliti: Soni Fajar Mahmud\nSumber jurnal: UNITEK. Vol.10 No.2, Tahun 2017\nDOI: https://doi.org/10.52072/unitek.v10i2.84\n--- \n"
+  },
+  {
+    "role": "assistant",
+    "content": "Terima kasih telah memberikan data jurnal. Berikut adalah daftar pustaka dengan format penulisan APA untuk setiap jurnal:\n\n1. Puspitasari, S. A., & Lukmandono. (2019). Analisa Kualitas Pelayanan untuk Meningkatkan Kepuasan Pelanggan Menggunakan Metode Kano dan Quality Function Deployment (Studi Kasus PT. Bank X). Jurnal SENOPATI, 1(1). https://doi.org/10.31284/j.senopati.2019.v1i1.529\n\n2. Indrawan, S. (2017). Analisis Kepuasan Pelanggan Surat Kabar Dumai Pos dengan Menggunakan Metode Quality Function Deployment. Unitek, 10(1). https://doi.org/10.52072/unitek.v10i1.72\n\n3. Nurochim, S., & Rukmana, A. N. (2021). Perancangan Produk Waistbag dengan Menggunakan Metode Quality Function Deployment (QFD). Journal Riset Teknik Industri, 1(1), 1-13. https://doi.org/10.29313/jrti.v1i1.91\n\n4. Devani, V., & Darma, A. D. (2018). Usulan Perbaikan Kualitas Pelayanan Kesehatan Dengan Metode Quality Function Deployment (QFD) di Poliklinik. Performa: Media Ilmiah Teknik Industri, 17(2), 120-131. https://doi.org/10.20961/performa.17.2.23520\n\n5. Mahmud, S. F. (2017). Kepuasan Pelanggan Terhadap Pelayanan PT Interyasa Dumai Menggunakan Metode Service Quality (Servqual) dan Quality Function Deployment (QFD). UNITEK, 10(2). https://doi.org/10.52072/unitek.v10i2.84\n\nMohon perhatikan bahwa format penulisan APA mencakup penulisan judul artikel, nama peneliti, nama jurnal (miring), volume, nomor, halaman, dan tahun. Saya telah menyusun daftar pustaka sesuai dengan format tersebut berdasarkan data jurnal yang Anda berikan."
+  }
+]

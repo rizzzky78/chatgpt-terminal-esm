@@ -1,0 +1,41 @@
+Tentu, berikut adalah tahapan atau diagram alir penelitian secara lengkap yang meliputi keseluruhan proses dari awal hingga akhir penelitian:
+
+1. Analisis Permasalahan:
+- Menganalisis permasalahan yang dihadapi oleh Halal Mart BC Cilacap 3 dalam mengelola permintaan informasi dan pemesanan produk.
+- Memahami dampak dari permasalahan tersebut terhadap efisiensi dan kepuasan pelanggan.
+
+2. Pengumpulan Informasi Tambahan:
+- Mengumpulkan informasi tambahan tentang Halal Mart BC Cilacap 3, seperti struktur organisasi, proses pemesanan saat ini, alur informasi, dan alur kerja saat ini.
+
+3. Penentuan Metode Penelitian:
+- Memilih metode penelitian yang sesuai dengan tujuan penelitian dan permasalahan yang dihadapi oleh Halal Mart BC Cilacap 3.
+- Misalnya, metode penelitian yang digunakan bisa mencakup metode Quality Function Deployment (QFD) dan Agile Scrum.
+
+4. Pengumpulan Data:
+- Mengumpulkan data tentang kebutuhan dan preferensi agen dan konsumen terkait pelayanan pelanggan dan pemesanan produk.
+- Mengumpulkan data tentang fitur-fitur yang diharapkan dari chatbot.
+
+5. Analisis Data:
+- Menganalisis data yang telah terkumpul menggunakan metode QFD untuk mengidentifikasi kebutuhan dan preferensi agen dan konsumen.
+- Mengidentifikasi fitur-fitur yang harus ada dalam implementasi chatbot.
+
+6. Pengembangan Chatbot:
+- Mengembangkan chatbot berbasis aturan menggunakan Agile Scrum sebagai metodologi pengembangan.
+- Menerapkan fitur-fitur yang telah diidentifikasi pada tahap sebelumnya.
+
+7. Evaluasi Dampak Penerapan Chatbot:
+- Melakukan usability testing untuk mengevaluasi dampak penerapan chatbot.
+- Mengumpulkan umpan balik dari agen dan konsumen terkait pengalaman menggunakan chatbot.
+
+8. Analisis Hasil:
+- Menganalisis hasil dari evaluasi dampak penerapan chatbot.
+- Menilai efisiensi dan efektivitas chatbot dalam menyediakan informasi dan proses pemesanan produk.
+
+9. Rekomendasi dan Tindak Lanjut:
+- Memberikan rekomendasi berdasarkan analisis hasil untuk meningkatkan pelayanan pelanggan dan pemesanan produk.
+- Merumuskan tindakan yang perlu diambil oleh Halal Mart BC Cilacap 3 berdasarkan rekomendasi tersebut.
+
+10. Penulisan Laporan:
+- Menyusun laporan penelitian yang berisi ringkasan permasalahan, metodologi penelitian, hasil analisis, rekomendasi, dan tindak lanjut.
+
+Tahapan-tahapan di atas bisa disesuaikan sesuai dengan kebutuhan dan kompleksitas penelitian. Jika ada tahapan khusus yang ingin anda bahas lebih dalam atau informasi tambahan yang perlu ditambahkan dalam tahapan ini, mohon beri tahu saya.
